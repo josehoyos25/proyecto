@@ -28,7 +28,7 @@ function NavbarComponent() {
                 </Badge>
                 <Avatar isBordered color="secondary" src="https://i.pravatar.cc/150?u=a042581f4e29026704d" />
                 <div className='flex flex-col'>
-                    <h2 className='font-bold'>Miller</h2>
+                    <h2 className='font-bold'>Jose</h2>
                     <span className='text-sm'>Admin</span>
                 </div>
             </div>
